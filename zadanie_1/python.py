@@ -14,7 +14,7 @@ liczba = 16
 pierwiastek = math.sqrt(liczba)
 print(f"Pierwiastek kwadratowy z {liczba} to {pierwiastek}")
 
-#Wyjątek ZeroDivisionError jest podnoszony, gdy próbujemy podzielić liczbę przez zero
+#Wyjątek ZeroDivisionError jest podnoszony, gdy próbujemy podzielić liczbę przez zero.
 #https://docs.python.org/3/library/exceptions.html#ZeroDivisionError
 try:
     wynik = 10 / 0
